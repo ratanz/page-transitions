@@ -3,8 +3,8 @@ import Nav from "@/components/Nav";
 import PageTransition from "@/components/PageTransition";
 
 export const metadata = {
-  title: "NextJS x GSAP Page Transitions | Codegrid",
-  description: "NextJS x GSAP Page Transitions | Codegrid",
+  title: "NextJS x GSAP Page Transitions",
+  description: "NextJS x GSAP Page Transitions",
 };
 
 export default function RootLayout({ children }) {
